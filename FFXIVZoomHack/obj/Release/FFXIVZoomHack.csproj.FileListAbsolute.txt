@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\bin\Release\FFXIVZoomHack.exe.config
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\bin\Release\FFXIVZoomHack.exe
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\bin\Release\FFXIVZoomHack.pdb
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\obj\Release\FFXIVZoomHack.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\obj\Release\FFXIVZoomHack.Form1.resources
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\obj\Release\FFXIVZoomHack.Properties.Resources.resources
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\obj\Release\FFXIVZoomHack.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\obj\Release\FFXIVZoomHack.exe
+C:\Users\Administrator\Downloads\FFXIV-Zoom-Hack-1.2\FFXIV-Zoom-Hack-1.2\FFXIVZoomHack\obj\Release\FFXIVZoomHack.pdb

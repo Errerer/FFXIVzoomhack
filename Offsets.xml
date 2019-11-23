@@ -1,0 +1,19 @@
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX9>
+   <StructureAddress>1326810</StructureAddress>
+    <ZoomCurrent>F8</ZoomCurrent>
+    <ZoomMax>100</ZoomMax>
+    <FovCurrent>104</FovCurrent>
+    <FovMax>10C</FovMax>
+  </DX9>
+  <DX11>
+    <StructureAddress>1B24830</StructureAddress>
+    <ZoomCurrent>118</ZoomCurrent>
+    <ZoomMax>120</ZoomMax>
+    <FovCurrent>124</FovCurrent>
+    <FovMax>12C</FovMax>
+  </DX11>
+  <LastUpdate>版本5.0 暗影之逆焰 中国服</LastUpdate>
+  <Version>2019.10.15.0000.0000</Version>
+</Root>
