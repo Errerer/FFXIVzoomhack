@@ -8,12 +8,12 @@
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1BFAB20</StructureAddress>
+    <StructureAddress>1BF9B20</StructureAddress>
     <ZoomCurrent>118</ZoomCurrent>
     <ZoomMax>120</ZoomMax>
     <FovCurrent>124</FovCurrent>
     <FovMax>12C</FovMax>
   </DX11>
-  <LastUpdate>国服5.11更新</LastUpdate>
+  <LastUpdate>国服5.15更新</LastUpdate>
   <Version>2019.10.15.0000.0000</Version>
 </Root>
