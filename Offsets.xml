@@ -1,19 +1,23 @@
- <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
-   <StructureAddress>1326810</StructureAddress>
+    <StructureAddress>132E610</StructureAddress>
     <ZoomCurrent>F8</ZoomCurrent>
     <ZoomMax>100</ZoomMax>
     <FovCurrent>104</FovCurrent>
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1BF9B20</StructureAddress>
-    <ZoomCurrent>118</ZoomCurrent>
-    <ZoomMax>120</ZoomMax>
-    <FovCurrent>124</FovCurrent>
-    <FovMax>12C</FovMax>
+    <StructureAddress>1C5E270</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>国服5.15更新</LastUpdate>
-  <Version>2019.10.15.0000.0000</Version>
+  <LastUpdate>2020-7-21 国服5.2更新</LastUpdate>
+  <AutoApply>True</AutoApply>
+  <AutoQuit>False</AutoQuit>
+  <DesiredZoom>42</DesiredZoom>
+  <DesiredFov>0.78</DesiredFov>
+  <OffsetUpdateLocation>https://github.com/Errerer/FFXIV-Zoom-Hack/edit/master/Offsets.xml</OffsetUpdateLocation>
 </Root>
