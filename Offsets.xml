@@ -8,13 +8,13 @@
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1C5E270</StructureAddress>
+    <StructureAddress>1D04F90</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2020-7-21 国服5.2更新</LastUpdate>
+  <LastUpdate>2020-12-1 国服5.3更新</LastUpdate>
   <AutoApply>True</AutoApply>
   <AutoQuit>False</AutoQuit>
   <DesiredZoom>42</DesiredZoom>
