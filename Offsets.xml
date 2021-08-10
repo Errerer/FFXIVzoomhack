@@ -8,13 +8,13 @@
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1D84470</StructureAddress>
+    <StructureAddress>1DAB380</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2021-5-11 国服5.41更新</LastUpdate>
+  <LastUpdate>2021.8.10 5.5buding update</LastUpdate>
   <AutoApply>True</AutoApply>
   <AutoQuit>False</AutoQuit>
   <DesiredZoom>42</DesiredZoom>
