@@ -8,13 +8,13 @@
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1DAD380</StructureAddress>
+    <StructureAddress>1E74290</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022.1.18 5.58 Errerupdate </LastUpdate>
+  <LastUpdate>2022.3.16 6.0 Errerupdate </LastUpdate>
   <AutoApply>True</AutoApply>
   <AutoQuit>False</AutoQuit>
   <DesiredZoom>42</DesiredZoom>
